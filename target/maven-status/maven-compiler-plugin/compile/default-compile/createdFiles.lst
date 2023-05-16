@@ -1,0 +1,17 @@
+com\mycompany\jpaprueba\logica\Mascota.class
+com\mycompany\jpaprueba\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\jpaprueba\persistencia\DuenioJpaController.class
+com\mycompany\jpaprueba\persistencia\MascotaJpaController.class
+com\mycompany\jpaprueba\igu\Principal.class
+com\mycompany\jpaprueba\logica\Duenio.class
+com\mycompany\jpaprueba\igu\CargaDato.class
+com\mycompany\jpaprueba\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\jpaprueba\igu\Principal$2.class
+com\mycompany\jpaprueba\logica\Mascota_.class
+com\mycompany\jpaprueba\JpaPrueba.class
+com\mycompany\jpaprueba\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\jpaprueba\igu\Principal$1.class
+com\mycompany\jpaprueba\logica\Controladora.class
+com\mycompany\jpaprueba\logica\Duenio_.class
+com\mycompany\jpaprueba\igu\CargaDato$1.class
+com\mycompany\jpaprueba\persistencia\ControladoraPersistencia.class
